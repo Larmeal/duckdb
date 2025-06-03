@@ -1,6 +1,7 @@
 # DuckDB คืออะไร มาลองใช้งานผ่าน Python กัน
 
-### The repository was created for use in explaining on Medium: [DuckDB คืออะไร].
+### The repository was created for use in explaining on Medium: [DuckDB คืออะไร](https://medium.com/@chutdanai.tho/0732ff538b60).
+![duckdb](./img/duckdb-trumnail.png?raw=true "duckdb")
 
 Data Source: [Air Quality Monitoring in European Cities](https://www.kaggle.com/datasets/yekenot/air-quality-monitoring-in-european-cities) including 3 CSV files
 - ancona_data.csv
